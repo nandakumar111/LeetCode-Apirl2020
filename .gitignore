@@ -153,15 +153,4 @@ gen
 .idea/inspectionProfiles/
 .idea/misc.xml
 .idea/modules.xml
-BackspaceStringCompare.py
-BestTimeToBuyAndSellStock2.py
-CountingElements.py
-DiameterOfBinaryTree.py
-GroupAnagrams.py
-HappyNumber.py
-MaximumSubarray.py
-MiddleOfTheLinkedList.py
-MinStack-test.py
-MinStack.py
-MoveZeroes.py
-SingleNmber.py
+.DS_Store
